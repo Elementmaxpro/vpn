@@ -1,0 +1,28 @@
+[
+    {
+        "host": "68.183.56.84",
+        "image": "us.png",
+        "name": "DIGITAL NY"
+    },
+    {
+        "host": "38.143.68.44",
+        "image": "us.png",
+        "name": "MIGUE VIP"
+    },
+    {
+        "host": "140.238.157.163",
+        "image": "ca.png",
+        "name": "CANADA ORACLE"
+    },
+    {
+        "host": "129.213.166.196",
+        "image": "us.png",
+        "name": "ASHBURN VA"
+    },
+    {
+        "host": "207.246.67.211",
+        "image": "us.png",
+        "name": "MIAMI VULTR"
+    }
+]
+
