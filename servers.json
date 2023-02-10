@@ -18,6 +18,11 @@
         "host": "144.202.36.235",
         "image": "us.png",
         "name": "MIAMI SERVER"
+    },
+    {
+        "host": "142.93.101.21",
+        "image": "us.png",
+        "name": "NEAR TEST"
     }
 ]
 
