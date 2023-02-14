@@ -3,6 +3,11 @@
         "host": "134.209.126.247",
         "image": "us.png",
         "name": "ELEMENT PRO S1"
-    }
+    },
+    {
+        "host": "129.213.166.196",
+        "image": "us.png"
+        "name": "ASHBURN PRIV"
+     }
 ]
 
