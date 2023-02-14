@@ -1,8 +1,13 @@
 [
     {
-        "host": "134.209.126.247",
+        "host": "157.245.117.172",
         "image": "us.png",
-        "name": "ELEMENT PRO S1"
+        "name": "ELEMENT PRO [Full]"
+    },
+    {
+        "host": "129.213.166.196",
+        "image": "us.png",
+        "name": "ELEMENT PRO [Pachu]"
     }
 ]
 
