@@ -1,28 +1,8 @@
 [
     {
-        "host": "68.183.56.84",
+        "host": "134.209.126.247",
         "image": "us.png",
-        "name": "DIGITAL NY"
-    },
-    {
-        "host": "38.143.68.44",
-        "image": "us.png",
-        "name": "MIGUE VIP"
-    },
-    {
-        "host": "129.213.166.196",
-        "image": "us.png",
-        "name": "ASHBURN VA"
-    },
-    {
-        "host": "158.101.21.80",
-        "image": "us.png",
-        "name": "ARIZONA SERVER"
-    },
-    {
-        "host": "142.93.101.21",
-        "image": "us.png",
-        "name": "NEAR TEST"
+        "name": "ELEMENT PRO S1"
     }
 ]
 
