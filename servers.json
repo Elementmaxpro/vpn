@@ -9,5 +9,10 @@
         "image": "us.png",
         "name": "ELEMENT PRO [ASHBURN]"
     }
+    {
+        "host": "129.146.170.64",
+        "image": "us.png",
+        "name": "ELEMENT PRO [ARIZONA]"
+    },
 ]
 
