@@ -13,6 +13,11 @@
         "host": "129.146.170.64",
         "image": "us.png",
         "name": "ELEMENT PRO [ARIZONA]"
+    },
+    {
+        "host": "132.145.98.10",
+        "image": "ca.png",
+        "name": "ELEMENT PRO [CANADA]"
     }
 ]
 
