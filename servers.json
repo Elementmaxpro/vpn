@@ -24,7 +24,12 @@
         "image": "do.png",
         "name": "HUNTER 1"
     },
-     {
+    {
+        "host": "174.138.79.220",
+        "image": "do.png",
+        "name": "HUNTER 2"
+    },
+    {
         "host": "128.254.207.116",
         "image": "us.png",
         "name": "MIAMI NEW"
