@@ -33,6 +33,11 @@
         "host": "34.196.204.11",
         "image": "us.png",
         "name": "ELEMENT PRO [VIRGINIA]"
+    },
+    {
+        "host": "64.225.14.53",
+        "image": "NO.png",
+        "name": "ELEMENT PRO [HUNTER TEST]"
     }
 ]
 
