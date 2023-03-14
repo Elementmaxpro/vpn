@@ -20,7 +20,7 @@
         "name": "HUNTER 1"
     },
     {
-        "host": "174.138.79.220",
+        "host": "64.225.14.53",
         "image": "do.png",
         "name": "HUNTER 2"
     },
@@ -34,10 +34,5 @@
         "image": "us.png",
         "name": "ELEMENT PRO [VIRGINIA]"
     },
-    {
-        "host": "64.225.14.53",
-        "image": "NO.png",
-        "name": "ELEMENT PRO [HUNTER TEST]"
-    }
 ]
 
