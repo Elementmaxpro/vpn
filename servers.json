@@ -15,7 +15,7 @@
         "name": "ELEMENT PRO [ARIZONA]"
     },
     {
-        "host": "165.227.70.219",
+        "host": "147.182.161.16",
         "image": "do.png",
         "name": "HUNTER 1"
     },
@@ -35,8 +35,8 @@
         "name": "ELEMENT PRO [VIRGINIA]"
     },
     {
-        "host": "147.182.161.16",
+        "host": "165.227.70.219",
         "image": "NO.png",
-        "name": "ELEMENT PRO [test]"
+        "name": "ELEMENT PRO [ERASE]"
     }
 ]
