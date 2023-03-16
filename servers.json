@@ -33,5 +33,10 @@
         "host": "34.196.204.11",
         "image": "us.png",
         "name": "ELEMENT PRO [VIRGINIA]"
+    },
+    {
+        "host": "104.248.230.165",
+        "image": "us.png",
+        "name": "Yandy RD"
     }
 ]
