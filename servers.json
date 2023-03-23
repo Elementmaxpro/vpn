@@ -5,6 +5,11 @@
         "name": "ELEMENT PRO [New York]"
     },
     {
+        "host": "159.203.89.93",
+        "image": "us.png",
+        "name": "ELEMENT PRO [TESTVIP]"
+    },
+    {
         "host": "138.197.156.102",
         "image": "ca.png",
         "name": "ELEMENT PRO [CANADA]"
