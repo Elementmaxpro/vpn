@@ -10,9 +10,14 @@
         "name": "ELEMENT PRO [TESTVIP]"
     },
     {
-        "host": "138.197.156.102",
+        "host": "128.254.207.171",
         "image": "ca.png",
-        "name": "ELEMENT PRO [CANADA]"
+        "name": "ELEMENT PRO [PING]"
+    },
+    {
+        "host": "128.254.207.171",
+        "image": "ca.png",
+        "name": "ELEMENT PRO [PING2]"
     },
     {
         "host": "129.146.170.64",
