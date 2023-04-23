@@ -48,5 +48,10 @@
         "host": "45.58.56.86",
         "image": "us.png",
         "name": "ELEMENT PRO [FREE1]"
+    },
+    {
+        "host": "162.212.156.148",
+        "image": "us.png",
+        "name": "ELEMENT PRO [FREE2]"
     }
 ]
