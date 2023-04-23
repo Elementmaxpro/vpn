@@ -40,9 +40,14 @@
         "name": "ELEMENT PRO [VIRGINIA]"
     },
     {
-        "host": "104.248.230.165",
+        "host": "34.196.204.11",
         "image": "us.png",
-        "name": "Yandy RD"
+        "name": "ELEMENT PRO [VIRGINIA]"
+    },
+    {
+        "host": "155.94.218.226",
+        "image": "us.png",
+        "name": "ELEMENT PRO [FREE1]"
     }
 
 ]
