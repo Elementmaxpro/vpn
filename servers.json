@@ -38,15 +38,5 @@
         "host": "34.196.204.11",
         "image": "us.png",
         "name": "ELEMENT PRO [VIRGINIA]"
-    },
-    {
-        "host": "152.70.144.183",
-        "image": "us.png",
-        "name": "ELEMENT PRO [ARIZONA]"
-    },
-    {
-        "host": "128.254.207.11",
-        "image": "us.png",
-        "name": "ELEMENT PRO [FREETEST1]"
     }
 ]
