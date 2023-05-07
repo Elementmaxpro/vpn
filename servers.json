@@ -43,5 +43,10 @@
         "host": "57.128.81.64",
         "image": "do.png",
         "name": "SERVIDOR GRATIS"
+    },
+    {
+        "host": "57.128.81.64",
+        "image": "do.png",
+        "name": "Contacto: T.me/ElementMax"
     }
 ]
