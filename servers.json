@@ -1,9 +1,5 @@
 [
-    {
-        "host": "45.59.170.91",
-        "image": "us.png",
-        "name": "ELEMENT PRO [NYC METRO]"
-    },
+
     {
         "host": "128.254.207.171",
         "image": "us.png",
@@ -20,9 +16,9 @@
         "name": "HUNTER [Miami]"
     },
     {
-        "host": "162.212.154.51",
+        "host": "45.59.170.91",
         "image": "do.png",
-        "name": "HUNTER [Chicago]"
+        "name": "HUNTER [New York]"
     },
     {
         "host": "128.254.207.116",
