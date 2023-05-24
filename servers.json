@@ -40,8 +40,18 @@
         "name": "BETA TESTER [BOT]"
     },
     {
+        "host": "38.91.107.124",
+        "image": "do.png",
+        "name": "THUNDER"
+    },
+    {
+        "host": "169.197.140.185",
+        "image": "do.png",
+        "name": "FIRE"
+    },
+    {
         "host": "64.31.22.208",
-        "image": "no.png",
+        "image": "do.png",
         "name": "Contacto: T.me/ElementMax"
     }
 ]
