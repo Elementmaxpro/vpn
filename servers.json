@@ -10,19 +10,29 @@
         "name": "ELEMENT PRO [North Carolina]"
     },
     {
-        "host": "128.254.207.198",
-        "image": "do.png",
-        "name": "HUNTER [Miami]"
+        "host": "100.26.185.179",
+        "image": "us.png",
+        "name": "ELEMENT PRO [VIRGINIA]"
     },
     {
-        "host": "128.254.207.23",
+        "host": "38.91.107.124",
         "image": "do.png",
-        "name": "HUNTER [Miami 2]"
+        "name": "ELEMENT PRO [THUDER]"
     },
     {
         "host": "128.254.207.116",
         "image": "us.png",
-        "name": "PRIVADO"
+        "name": "ELEMENT PRO [PRIVITY]"
+    },
+    {
+        "host": "128.254.207.198",
+        "image": "do.png",
+        "name": "HUNTER [1]"
+    },
+    {
+        "host": "128.254.207.23",
+        "image": "do.png",
+        "name": "HUNTER [2]"
     },
     {
         "host": "128.254.207.11",
@@ -30,24 +40,14 @@
         "name": "YANDY"
     },
     {
-        "host": "100.26.185.179",
-        "image": "us.png",
-        "name": "ELEMENT PRO [VIRGINIA]"
+        "host": "169.197.140.185",
+        "image": "do.png",
+        "name": "SAVEDRY"
     },
     {
         "host": "68.183.96.105",
         "image": "us.png",
         "name": "BETA TESTER [BOT]"
-    },
-    {
-        "host": "38.91.107.124",
-        "image": "do.png",
-        "name": "THUNDER"
-    },
-    {
-        "host": "169.197.140.185",
-        "image": "do.png",
-        "name": "SAVEDRY"
     },
     {
         "host": "64.31.22.208",
