@@ -5,7 +5,7 @@
         "name": "ELEMENT PRO [MIAMI]"
     },
     {
-        "host": "elementcarolina.duckdns.org",
+        "host": "107.152.43.106",
         "image": "us.png",
         "name": "ELEMENT PRO [North Carolina]"
     },
@@ -15,9 +15,9 @@
         "name": "ELEMENT PRO [LAS NOCHES]"
     },
     {
-        "host": "amateratsuelement.dus.org",
+        "host": "amateratsuelement.duckdns.org",
         "image": "us.png",
-        "name": "AMATERATSU"
+        "name": "ELEMENT PRO [AMATERATSU]"
     },
     {
         "host": "128.254.207.198",
@@ -30,12 +30,12 @@
         "name": "HUNTER [2]"
     },
     {
-        "host": "128.254.207.11",
+        "host": "yandyfast.duckdns.org",
         "image": "do.png",
         "name": "YANDY"
     },
     {
-        "host": "169.197.140.185",
+        "host": "162.251.62.57",
         "image": "do.png",
         "name": "SAVEDRY"
     },
